@@ -1,7 +1,5 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+HELLO WORLD! Pleased to meet you, Moscow State University.
+ЗДРАВСТВУЙ, МИР! Рад знакомству с вами, Московский государственный университет.
+BONJOUR LE MONDE ! Enchanté de faire votre connaissance, Université d'État de Moscou.
 
-![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+#Домашние задания по информатике#
